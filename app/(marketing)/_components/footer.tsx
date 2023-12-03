@@ -9,7 +9,7 @@ export const Footer = () => {
              md:justify-end flex items-center gap-x-2 
              text-muted-foreground">
                 <Button variant="ghost" size="sm">
-                    Privacy Policy
+                    Privacy Policy (Rachana Krishna)
                 </Button>
                 <Button variant="ghost" size="sm">
                     Terms & Conditions
